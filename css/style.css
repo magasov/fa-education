@@ -451,6 +451,14 @@ a:focus {
     object-fit: cover;
 }
 
+.gallery_section .video-box video,
+.gallery_section .video-box iframe {
+    width: 100%;
+    height: 400px; /* Установите нужную высоту */
+    object-fit: cover;
+}
+
+
 .gallery_section .img-box a {
   display: -webkit-box;
   display: -ms-flexbox;
