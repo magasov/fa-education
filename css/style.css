@@ -7,6 +7,10 @@ body {
   overflow-x: hidden;
 }
 
+.navbar-brand > div > img {
+  border-radius: 50%;
+}
+
 .layout_padding {
   padding: 90px 0;
 }
